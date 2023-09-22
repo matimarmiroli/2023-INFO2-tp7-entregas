@@ -2,7 +2,7 @@
 
 ## Repositorio de entregas del Trabajo práctico nro 6: puertos y periféricos
 
-# Instrucciones
+### Instrucciones
 
 1ero) Loguearse a su Github.
 
@@ -28,3 +28,14 @@
 Recuerde que _LEGAJO_Apellido_Nombre_ , Ejercicio1  y Ejercicio2 son directorios. 
 
 El resto son los archivos que Ud. debe crear para resolver las consignas de los ejercicios.
+
+No se aceptará la entrega si no respeta el orden y nombre de los directorios.
+
+### Consignas de los ejercicios a resolver
+
+### Entrega del trabajo 
+
+1. Para entregar debe realizar un Pull Request desde su repositorio hacia este.
+
+2. Además debe bajar su repositorio en formato comprimido zip y subirlo en la entrega del campus.
+
