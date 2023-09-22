@@ -33,6 +33,8 @@ No se aceptará la entrega si no respeta el orden y nombre de los directorios.
 
 ### Consignas de los ejercicios a resolver
 
+Se encuentran [en este archivo ](https://github.com/anadiedrichs/2023-INFO2-tp7-entregas/blob/main/2023-info2-tp7-perifericos.pdf)
+
 ### Entrega del trabajo 
 
 1. Para entregar debe realizar un Pull Request desde su repositorio hacia este.
