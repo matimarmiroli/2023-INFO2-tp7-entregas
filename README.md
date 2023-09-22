@@ -1,21 +1,30 @@
 # tp6-entregas
-Repositorio de entregas del Trabajo práctico nro 6: puertos y periféricos
 
-1ero) Loguearse a su Github
-2do) Realizar un fork de este repositorio. De allí en más Ud. trabajará en ese repositorio
-3ero) Crear una carpeta cuyo nombre tenga el siguiente formato
+## Repositorio de entregas del Trabajo práctico nro 6: puertos y periféricos
 
-* LEGAJO_Apellido_Nombre por ejemplo 34567_Diedrichs_Ana
+# Instrucciones
 
-4to) Dentro de esa carpeta Ud. debe tener la siguiente estructura
+1ero) Loguearse a su Github.
+
+2do) Realizar un fork de este repositorio. De allí en más Ud. trabajará en ese repositorio.
+
+3ero) Crear una carpeta cuyo nombre tenga el siguiente formato.
+
+ _LEGAJO_Apellido_Nombre_ por ejemplo _34567_Diedrichs_Ana_
+
+4to) Dentro de esa carpeta Ud. debe tener la siguiente estructura:
 
 
-LEGAJO_Apellido_Nombre -------> Ejercicio1 ----> archivo.ino
-                       |                   |
-                       |                   |----> esquematico.jpg o esquematico.png
-                       |
-                       |-------> Ejercicio2 ----> archivo.ino
-                                            |
-                                            |----> esquematico.png
-                                            |                                     |
-                                            |----> archivoProcessing
+* LEGAJO_Apellido_Nombre
+    - Ejercicio1
+        + archivo.ino
+        + imagen del esquematico
+    - Ejercicio2
+        + archivo.ino
+        + esquematico.png
+        + archivoProcessing
+     
+
+Recuerde que _LEGAJO_Apellido_Nombre_ , Ejercicio1  y Ejercicio2 son directorios. 
+
+El resto son los archivos que Ud. debe crear para resolver las consignas de los ejercicios.
